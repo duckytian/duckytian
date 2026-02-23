@@ -1,6 +1,6 @@
 ## Hi there, I'm Christian 👋
 
-🎓 BS Information Technology  
+BS Information Technology  
 
  Tech Stack:
  <br>
