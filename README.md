@@ -1,6 +1,6 @@
 ## Hi there, I'm Christian 👋
 
-BS Information Technology  
+Currently enrolled at BS Information Technology  
 
  Tech Stack:
  <br>
